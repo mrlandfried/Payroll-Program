@@ -16,14 +16,16 @@ Output:
 - Total take home pay
 
 Pay rate is from a table or array:
-1 = $10.00 per hour
-2 = $12.50 per hour
-3 = $15.00 per hour
-4 = $17.50 per hour
-5 = $20.00 per hour
+- 1 = $10.00 per hour
+- 2 = $12.50 per hour
+- 3 = $15.00 per hour
+- 4 = $17.50 per hour
+- 5 = $20.00 per hour
 
 Overtime is anything over 40 hrs at time and a half
+
 Tax is 10% of total pay
+
 Insurance is 5% of total pay
 
 
